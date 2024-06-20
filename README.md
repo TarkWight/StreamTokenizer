@@ -38,7 +38,7 @@ To run the project, follow these steps:
 
 ## Support
 
-For any issues, please open an issue on the [GitHub repository](https://github.com/your-username/StreamTokenizer/issues).
+For any issues, please open an issue on the [StreamTokenizer issues](https://github.com/TarkWight/StreamTokenizer/issues).
 
 ## Authors
 
